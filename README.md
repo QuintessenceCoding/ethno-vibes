@@ -1,8 +1,3 @@
-
-
----
-
-````markdown
 # 🌍 Ethnicity Fun App
 
 A lighthearted AI app that predicts what ethnicity you might resemble based on your selfie! Just for fun — no serious claims or analysis here. 🧬📸
@@ -22,7 +17,7 @@ A lighthearted AI app that predicts what ethnicity you might resemble based on y
 ## 🚀 Demo
 
 > Run locally:
-```bash
+````markdown
 streamlit run app.py
 ````
 
