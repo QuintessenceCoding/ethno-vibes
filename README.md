@@ -1,7 +1,5 @@
 # 🌍 Ethnicity Fun App
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]([https://ethno-vibes.streamlit.app/](https://ethno-vibes-jumnbbrrg4bymvxvfk9rxh.streamlit.app/))
-
 A lighthearted AI app that predicts what ethnicity you might resemble based on your selfie! Just for fun — no serious claims or analysis here. 🧬📸
 
 ---
